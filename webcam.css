@@ -1,0 +1,7 @@
+  .webcam-start-stop {
+    padding: 5px 0;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
